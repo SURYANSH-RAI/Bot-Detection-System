@@ -27,7 +27,7 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SURYANSH-RAI/Bot-Detection-System
+git clone https://github.com/SURYANSH-RAI/Bot-Detection-System.git
 cd Bot-Detection-System
 ```
 
@@ -122,7 +122,7 @@ No environment variables are required for basic functionality, but you may want 
 https://drive.google.com/drive/folders/1kTz6yQ6BAZMxV1cPD5muN6rzj9GLHyaB?usp=sharing
 
 ##Source Code:-
-https://github.com/SURYANSH-RAI/Bot-Detection
+https://github.com/SURYANSH-RAI/Bot-Detection-System.git
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
